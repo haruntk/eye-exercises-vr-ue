@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/harun_rvth/OneDrive/Documents/Unreal Projects/VR_Bates/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/harun_rvth/OneDrive/Documents/Unreal Projects/VR_Bates/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"C:/Users/harun_rvth/OneDrive/Documents/Unreal Projects/VR_Bates/Content/VRTemplate/Maps/VRTemplateMap.umap"
+			]
+		}
+	]
+}
