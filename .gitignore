@@ -1,0 +1,61 @@
+# Unreal Engine İlgili Gereksiz Dosyalar
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Debug/
+Ipch/
+.vscode/
+.idea/
+*.VC.db
+*.sln
+*.suo
+*.log
+*.pdb
+*.idb
+*.opendb
+
+# Cache ve Derleme Dosyaları
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+*.app
+*.ipa
+*.dSYM/
+*.so
+*.dylib
+*.tlog
+*.lastbuildstate
+*.vs/
+.vscode/
+
+# Unreal Engine tarafından otomatik oluşturulan dosyalar
+*.generated.*
+*.psess
+*.sdf
+*.sln.DotSettings
+*.VC.opendb
+*.VC.VC.opendb
+*.tmp
+
+# MacOS için ekstra gereksiz dosyalar
+.DS_Store
+._*
+
+# Linux için ekstra gereksiz dosyalar
+*.swp
+*.pidb
+*.unityproj
+*.manifest
+*.tmp
+*.bak
+*.asset
+*.preferences
+
+# Git LFS (Large File Storage) için Büyük Dosyalar (isteğe bağlı)
+# Eğer büyük dosyalar için LFS kullanıyorsan, aşağıdaki satırları uncomment yap
+# *.uasset filter=lfs diff=lfs merge=lfs -text
+# *.umap filter=lfs diff=lfs merge=lfs -text
